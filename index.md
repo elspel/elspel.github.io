@@ -9,7 +9,7 @@
 
 
 ## EL SPEL 2
-**[B] 0.1**
+**b0.1**
 - added a little bit this 
 
 
