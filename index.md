@@ -4,13 +4,14 @@
 
 ## EL SPEL 1
 **1.0**
-```markdown
 - added this
-- addd that
-```
+- added that
+
 
 ## EL SPEL 2
-holy shit its more info so much knowledge holy fuck
+**0.1**
+- added this
+- added that
 
 
 ```markdown
