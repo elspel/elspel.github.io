@@ -12,4 +12,4 @@
 **b0.1**
 - added a little bit here
 
-![Image](https://via.placeholder.com/150
+![Image](https://via.placeholder.com/150)
