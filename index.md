@@ -9,9 +9,8 @@
 
 
 ## EL SPEL 2
-**0.1**
-- added this
-- added that
+**ALPHA 0.1**
+- added a little bit this 
 
 
 ```markdown
