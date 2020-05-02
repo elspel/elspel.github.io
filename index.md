@@ -4,7 +4,7 @@
 
 ## EL SPEL 1
 ```markdown
-**1.0**
+*1.0*
 - added this
 - addd that
 ```
