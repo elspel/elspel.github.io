@@ -12,4 +12,4 @@
 **b0.1**
 - added a little bit here
 
-[Link](url) and ![Image](src)
+![Image](https://via.placeholder.com/150
