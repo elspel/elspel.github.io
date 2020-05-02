@@ -10,23 +10,6 @@
 
 ## EL SPEL 2
 **b0.1**
-- added a little bit this 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- added a little bit here
 
 [Link](url) and ![Image](src)
-```
