@@ -1,9 +1,13 @@
-[EL SPEL 1](https://elspel.github.io/2/)  |  [INFO](https://elspel.github.io/#el-spel-1)
+[EL SPEL 1](https://elspel.github.io/2/)  |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
 
-[EL SPEL 2](https://elspel.github.io/2/)  |  [INFO](https://elspel.github.io/#el-spel-2)
+[EL SPEL 2](https://elspel.github.io/2/)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
 ## EL SPEL 1
-info right here boy
+```markdown
+**1.0**
+- added this
+- addd that
+```
 
 ## EL SPEL 2
 holy shit its more info so much knowledge holy fuck
