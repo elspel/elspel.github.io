@@ -8,12 +8,13 @@
 ???
 
 ## EL SPEL 2
-**Development Updates**
+##### Development Updates
 
 **v0.10**
 - Adding item system
 - Adding gun features
 - Main Menu bug fixes
+
 
 **Changelog**
 
