@@ -4,7 +4,8 @@
 
 ## EL SPEL 1
 **1.0**
-???
+- Test
+- Test 2
 
 
 ## EL SPEL 2
