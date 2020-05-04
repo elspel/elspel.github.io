@@ -16,7 +16,7 @@
 - Main Menu bug fixes
 
 
-**Changelog**
+#### Changelog
 
 **b0.1**
 
