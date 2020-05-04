@@ -4,12 +4,15 @@
 
 ## EL SPEL 1
 **1.0**
-- Test
-- Test 2
 
+???
 
 ## EL SPEL 2
+**Development Updates**
+
+**Changelog**
+
 **b0.1**
-???
+
 
 ![Image](https://via.placeholder.com/150)
