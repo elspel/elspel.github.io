@@ -12,7 +12,7 @@
 
 **v0.10**
 - Adding item system
-- Adding gun features
+- Developing weapon functionality
 - Main Menu bug fixes
 
 
