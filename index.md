@@ -2,7 +2,9 @@
 
 EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
- 
+<p align="center">
+Sup man
+</p>
  
  
  
