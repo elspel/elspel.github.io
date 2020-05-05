@@ -3,9 +3,11 @@
 EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
 ## EL SPEL 
-#### <p align="center"> 
+<h1> align="center"> 
    [PLAY](https://elspel.github.io/1/)
-</p>
+</h1>
+
+
 
 #### Changelog
 
