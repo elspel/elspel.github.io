@@ -2,15 +2,10 @@
 
 EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
-<p align="center">
-Sup man
-</p>
- 
- 
- 
 ## EL SPEL 
-
+<p align="center">
 | [PLAY](https://elspel.github.io/1/)  |
+</p>
 
 #### Changelog
 
