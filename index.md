@@ -34,4 +34,4 @@ No recent updates.
 **b0.1**
 
 
-![Image](https://via.placeholder.com/150)
+![Image](https://imgur.com/a/O3D9Rvz)
