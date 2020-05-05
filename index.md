@@ -4,9 +4,12 @@
 
 ## EL SPEL 
 [EL SPEL  ](https://elspel.github.io/1/)
+
+#### Changelog
+
 **1.0**
 
-???
+No recent updates.
 
 ## EL SPEL 2
 #### Development Updates
