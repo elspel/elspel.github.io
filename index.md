@@ -4,6 +4,8 @@ EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
 ## EL SPEL 
 
+![Image](https://i.imgur.com/xGS947m.png)
+
 <h6 align="center"> 
    <a href="https://elspel.github.io/1/">PLAY</a>
 </h6>
@@ -34,4 +36,3 @@ No recent updates.
 **b0.1**
 
 
-![Image](https://i.imgur.com/xGS947m.png)
