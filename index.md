@@ -24,7 +24,6 @@ No recent updates.
 <br>
 
 ## EL SPEL 2
-[PLAY]
 
 #### Development Updates
 
