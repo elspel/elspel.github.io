@@ -51,5 +51,3 @@ Last dev/changelog update: 06/05/2020
 Gaming Amigo's
 </p>
 
-![Image](https://i.imgur.com/xGS947m.png)
-
