@@ -1,3 +1,6 @@
 theme: jekyll-theme-merlot
 title: EL SPEL WEBSITE
 is_project_page: false
+
+github:
+  is_project_page: false
