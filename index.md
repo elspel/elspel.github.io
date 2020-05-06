@@ -26,8 +26,15 @@ No recent updates.
 ## EL SPEL 2
 
 #### Development Updates
+Updates on the devolopment for El Spel 2 in stages (current: v0.10)
 
-**v0.10**
+Release date is yet unknown.
+
+**v0.10 (Current)**
 - Adding item system
 - Developing weapon functionality
 - Main Menu bug fixes
+
+**v0.9**
+- Player Animations
+- Player Functions
