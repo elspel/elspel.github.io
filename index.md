@@ -6,7 +6,7 @@ EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 <br>
 
 ## EL SPEL 
-<a href="https://elspel.github.io/1/">
+<a align="center" href="https://elspel.github.io/1/">
    <img src="https://i.imgur.com/xGS947m.png">
 </a>
 
