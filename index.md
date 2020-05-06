@@ -16,9 +16,10 @@ EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
         
 #### Changelog
-**1.0**
+**1.1  Updated 09/05/2020**
 
-No recent updates.
+- Restart function upon Game over
+- Game no longer softlocks at Game Over
 
 <br>
 <br>
