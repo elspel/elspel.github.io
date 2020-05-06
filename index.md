@@ -13,7 +13,6 @@ EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 </h6>
 
 #### Changelog
-
 **1.0**
 
 No recent updates.
@@ -24,7 +23,6 @@ No recent updates.
 <br>
 
 ## EL SPEL 2
-
 #### Development Updates
 Updates on the devolopment for El Spel 2 in stages (current: v0.10)
 
