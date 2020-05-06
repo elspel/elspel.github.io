@@ -1,8 +1,6 @@
-<a align="center>
-[EL SPEL](https://elspel.github.io/1/)  |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
+[EL SPEL](https://elspel.github.io/1/)      |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
 
 EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
-</a>
 
 <br>
 <br>
