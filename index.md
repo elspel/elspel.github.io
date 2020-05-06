@@ -41,6 +41,10 @@ Release date is yet unknown.
 <br>
 
 <p align="center">
+Last dev/changelog update: 06/05/2020
+</p>
+
+<p align="center">
 Gaming Amigo's
 </p>
 
