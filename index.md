@@ -24,7 +24,7 @@ No recent updates.
 
 ## EL SPEL 2
 #### Development Updates
-Updates on the devolopment for El Spel 2 in stages (current: v0.10)
+Updates on the development for El Spel 2 in stages (current: v0.10)
 
 Release date is yet unknown.
 
