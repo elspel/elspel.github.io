@@ -40,4 +40,7 @@ Release date is yet unknown.
 <br>
 <br>
 
+<p align="center">
 Gaming Amigo's
+</p>
+
