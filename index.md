@@ -1,4 +1,4 @@
-[EL SPEL              ](https://elspel.github.io/1/)  |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
+[EL SPEL](https://elspel.github.io/1/)  |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
 
 EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 
@@ -6,12 +6,15 @@ EL SPEL 2 (Coming Soon)  |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 <br>
 
 ## EL SPEL 
-![Image](https://i.imgur.com/xGS947m.png)
+<a href="https://elspel.github.io/1/">
+   <img src="https://i.imgur.com/xGS947m.png">
+</a>
 
 <h6 align="center"> 
    <a href="https://elspel.github.io/1/">PLAY</a>
 </h6>
 
+        
 #### Changelog
 **1.0**
 
@@ -47,4 +50,6 @@ Last dev/changelog update: 06/05/2020
 <p align="center">
 Gaming Amigo's
 </p>
+
+![Image](https://i.imgur.com/xGS947m.png)
 
