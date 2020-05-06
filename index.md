@@ -26,6 +26,7 @@ No recent updates.
 <br>
 
 ## EL SPEL 2
+<br>
 #### Development Updates
 Updates on the development for El Spel 2 in stages (current: v0.10)
 
