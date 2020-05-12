@@ -19,7 +19,6 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 **1.1  (Updated 09/05/2020)**
 
 - Restart function upon Game Over
-- Game no longer softlocks at Game Over
 
 <br>
 <br>
@@ -34,9 +33,9 @@ Updates on the development for El Spel 2 in stages (current: v0.10)
 Release date is yet unknown.
 
 **v0.10 (Current)**
-- Adding item system
-- Developing weapon functionality
-- Main Menu bug fixes
+- Weapon functions
+- Weapon Animations
+- Item pickup & inventory
 
 **v0.9**
 - Player Animations
