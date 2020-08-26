@@ -9,7 +9,7 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 <a align="center" href="https://elspel.github.io/1/">
    <img src="https://i.imgur.com/xGS947m.png">
 </a>
-
+<br>
 <a align="center" href="https://elspel.github.io/1/">
    <img src="https://imgur.com/Jfj3WGu.png">
 </a>
