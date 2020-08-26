@@ -10,11 +10,12 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
    <img src="https://i.imgur.com/xGS947m.png">
 </a>
 
-<h6 align="center"> 
-   <a href="https://elspel.github.io/1/">PLAY</a>
-</h6>
+<a align="center" href="https://elspel.github.io/1/">
+   <img src="https://imgur.com/a/RkdfLeA.png">
+</a>
 
-        
+
+
 #### Changelog
 **1.1  (Updated 09/05/2020)**
 
