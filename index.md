@@ -29,11 +29,16 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 ## EL SPEL 2
 <br>
 #### Development Updates
-Updates on the development for El Spel 2 in stages (current: v0.10)
+Updates on the development for El Spel 2 in stages (current: v0.11)
 
 Release date is yet unknown.
 
-**v0.10 (Current)**
+**v0.11**
+- Weapon functions
+- Dropping weapons
+- Inventory
+
+**v0.10**
 - Weapon functions
 - Weapon Animations
 - Item pickup & inventory
@@ -46,7 +51,7 @@ Release date is yet unknown.
 <br>
 
 <p align="center">
-Last dev/changelog update: 06/05/2020
+Last dev/changelog update: 01/07/2020
 </p>
 
 <p align="center">
