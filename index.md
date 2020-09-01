@@ -27,7 +27,10 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 <br>
 
 ## EL SPEL 2
-<br>
+<a align="center">
+   <img src="https://imgur.com/5YT6T35.png">
+</a>
+
 #### Development Updates
 Updates on the development for El Spel 2 in stages (current: v0.11)
 
