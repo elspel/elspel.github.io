@@ -1,4 +1,4 @@
-### Welcome to the official El Spel Website. Here you can play El Spel online, and you can find the latest news on El Spel 2's development. :)    - Endefoure
+### Welcome to the official El Spel Website. Here you can play El Spel online, and you can find the latest news on El Spel 2's development. :)
 
 [EL SPEL](https://elspel.github.io/1/)      |  [CHANGELOG](https://elspel.github.io/#el-spel-1)
 
