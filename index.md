@@ -32,7 +32,7 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 </a>
 <br>
 <a align="center">
-   <img src="https://imgur.com/W7UZC46.png">
+   <img src="https://i.imgur.com/NDyHDn3.png">
 </a>
 
 
