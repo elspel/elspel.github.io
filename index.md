@@ -11,7 +11,7 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 </a>
 <br>
 <a align="center" href="https://elspel.github.io/1/">
-   <img src="https://i.imgur.com/8akGcgB.png">
+   <img src="https://imgur.com/rPi6xMx.png">
 </a>
 
 
@@ -32,7 +32,7 @@ EL SPEL 2 (Coming Soon) |  [CHANGELOG](https://elspel.github.io/#el-spel-2)
 </a>
 <br>
 <a align="center">
-   <img src="https://i.imgur.com/NDyHDn3.png">
+   <img src="https://imgur.com/oWo9pqs.png">
 </a>
 
 
