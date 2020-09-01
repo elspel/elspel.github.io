@@ -29,7 +29,7 @@
 
 ## EL SPEL 2
 <a align="center">
-   <img src="https://imgur.com/5YT6T35.png">
+   <img src="https://imgur.com/S9YdleY.png">
 </a>
 <br>
 <a align="center">
