@@ -58,6 +58,16 @@ Release date is yet unknown.
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+## El Spel 3D
+A possible sequel to the yet unreleased El Spel 2 is planned for production! We'll keep you informed.
+
+<br>
+<br>
 
 <p align="center">
 Last dev/changelog update: 01/07/2020
