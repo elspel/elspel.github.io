@@ -1,5 +1,5 @@
 Welcome to the official El Spel Website. Here you can play El Spel online, and you can find the latest news on El Spel 2's development. :)
-
+El Spel 
 <br>
 <br>
 <br>
@@ -13,7 +13,7 @@ Welcome to the official El Spel Website. Here you can play El Spel online, and y
    <img src="https://imgur.com/vqc9PYi.png">
 </a>
 
-El Spel is a run-and-gun action game released in 2017. Play as the series' protagonist Pablo while he manoeuvres through a endless popo attacks (& knuckles).
+El Spel is a run-and-gun action game released in 2017. Play as the series' protagonist Pablo while he manoeuvres through endless popo attacks (& knuckles).
 
 #### Changelog
 **1.1  (Updated 09/05/2020)**
