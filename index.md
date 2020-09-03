@@ -36,6 +36,7 @@ Welcome to the official El Spel Website. Here you can play El Spel online, and y
    <img src="https://imgur.com/oWo9pqs.png">
 </a>
 
+El Spel's coming back with the release of the long awaited Gaming Amigo's: El Spel 2. Revisit the run-n'-gun action of the original, but with a bunch of improvements and new features (and new funky mode!).
 
 #### Development Updates
 Updates on the development for El Spel 2 in stages (current: v0.11)
