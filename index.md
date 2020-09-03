@@ -74,7 +74,7 @@ A possible sequel to the yet unreleased El Spel 2 is planned for production! We'
 <br>
 
 <p align="center">
-Last dev/changelog update: 01/07/2020
+Last dev/changelog update: 03/09/2020
 </p>
 
 <p align="center">
