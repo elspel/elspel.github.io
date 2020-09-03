@@ -63,7 +63,7 @@ Release date is yet unknown.
 <br>
 <br>
 
-## El Spel 3D
+## EL SPEL 3D
 <a align="center">
    <img src="https://imgur.com/oWo9pqs.png">
 </a>
