@@ -1,7 +1,4 @@
 Welcome to the official El Spel Website. Here you can play El Spel online, and you can find the latest news on El Spel 2's development. :)
-<a href=#EL SPEL 2>
-   El Spel
-</a>
 
 <br>
 <br>
