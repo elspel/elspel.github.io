@@ -24,7 +24,6 @@ A multiplayer version of El Spel is releasing real soon!
 **1.2  (Updated 13/09/2020)**
 
 - Added mobile version
- - test
 
 <br>
 <br>
