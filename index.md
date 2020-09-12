@@ -21,9 +21,10 @@ El Spel is a run-and-gun action game released in 2017. Play as the series' prota
 <br>
 A multiplayer version of El Spel is releasing real soon!
 #### Changelog
-**1.1  (Updated 09/05/2020)**
+**1.2  (Updated 13/09/2020)**
 
-- Restart function upon Game Over
+- Added mobile version
+ - test
 
 <br>
 <br>
