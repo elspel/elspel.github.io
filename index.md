@@ -13,7 +13,7 @@ Welcome to the official El Spel Website. Here you can play El Spel online, and y
    <img src="https://imgur.com/vqc9PYi.png">
 </a>
 <a align="center" href="https://elspel.github.io/mobile/">
-   <img src="https://imgur.com/GFhpMTm.png">
+   <img src="https://imgur.com/TZzlKNg.png">
 </a>
 
 
