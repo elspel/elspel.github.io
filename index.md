@@ -20,12 +20,13 @@ Welcome to the official El Spel Website. Here you can play El Spel online, and y
 El Spel is a run-and-gun action game released in 2017. Play as the series' protagonist Pablo while he manoeuvres through endless popo attacks (& knuckles).
 <br>
 #### Changelog
-**1.3  (Updated 2/10/2020)**
+**1.3  (Updated 02/10/2020)**
 
 - Formatted to widescreen (16:9 aspect ratio)
 - Added highscore counter
 - Coins will now gradually speed you up as you keep collecting them
 - Increased difficulty (Enemies will spawn faster, run faster, and shoot quicker as the game progresses).
+- Added pause menu (press ESC or P)
 - Other minor tweaks
 - Minor bug fixes
 
@@ -84,7 +85,7 @@ A possible sequel to the yet unreleased El Spel 2 is planned for production! We'
 <br>
 
 <p align="center">
-Last dev/changelog update: 03/09/2020
+Last dev/changelog update: 02/10/2020
 </p>
 
 <p align="center">
