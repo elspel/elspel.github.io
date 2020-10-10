@@ -36,6 +36,17 @@ El Spel is a run-and-gun action game released in 2017. Play as the series' prota
 <br>
 <br>
 
+## EL SPEL HALLOWEEN
+<a align="center">
+   <img src="https://imgur.com/IBxbRTW.png">
+</a>
+<br>
+<a align="center">
+   <img src="https://imgur.com/oWo9pqs.png">
+</a>
+
+
+
 ## EL SPEL 2
 <a align="center">
    <img src="https://imgur.com/S9YdleY.png">
